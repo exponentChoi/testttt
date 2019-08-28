@@ -1,0 +1,10 @@
+C:\Users\GG201305000030\source\repos\WindowsFormsApp0404\WindowsFormsApp0404\bin\Debug\WindowsFormsApp0404.exe.config
+C:\Users\GG201305000030\source\repos\WindowsFormsApp0404\WindowsFormsApp0404\bin\Debug\WindowsFormsApp0404.exe
+C:\Users\GG201305000030\source\repos\WindowsFormsApp0404\WindowsFormsApp0404\bin\Debug\WindowsFormsApp0404.pdb
+C:\Users\GG201305000030\source\repos\WindowsFormsApp0404\WindowsFormsApp0404\obj\Debug\WindowsFormsApp0404.csprojResolveAssemblyReference.cache
+C:\Users\GG201305000030\source\repos\WindowsFormsApp0404\WindowsFormsApp0404\obj\Debug\WindowsFormsApp0404.Form1.resources
+C:\Users\GG201305000030\source\repos\WindowsFormsApp0404\WindowsFormsApp0404\obj\Debug\WindowsFormsApp0404.Properties.Resources.resources
+C:\Users\GG201305000030\source\repos\WindowsFormsApp0404\WindowsFormsApp0404\obj\Debug\WindowsFormsApp0404.csproj.GenerateResource.cache
+C:\Users\GG201305000030\source\repos\WindowsFormsApp0404\WindowsFormsApp0404\obj\Debug\WindowsFormsApp0404.csproj.CoreCompileInputs.cache
+C:\Users\GG201305000030\source\repos\WindowsFormsApp0404\WindowsFormsApp0404\obj\Debug\WindowsFormsApp0404.exe
+C:\Users\GG201305000030\source\repos\WindowsFormsApp0404\WindowsFormsApp0404\obj\Debug\WindowsFormsApp0404.pdb
